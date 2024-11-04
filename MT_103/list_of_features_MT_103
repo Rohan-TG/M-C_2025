@@ -1,1 +1,61 @@
-
+Z: Proton number
+A: Nucleon number
+S_2n: 2-neutron separation energy
+S_2p: 2-proton separation energy
+E: Incident neutron energy
+S_p: single proton separation energy
+S_n: single neutron separation energy
+BEA: Binding energy per nucleon
+P: Pairing term
+Sn_c: compound nucleus single neutron separation energy
+N: Neutron number
+b-def: beta deformation
+g-def: Nuclear gamma deformation
+oct-def: nuclear octopole deformation
+S_n-d: Daughter nucleus single neutron separation energy
+S_p-d: Daughter nucleus single proton separation energy
+S_2n-d: Daughter nucleus	2-proton separation energy
+Radius: nuclear radius
+neutron gap energy
+neutron chemical energy
+neutron rms radius
+Decay_c: Compound nucleus decay constant
+BEA_d: Daughter nucleus binding energy per nucleon
+BEA_c: Compound nucleus binding energy per nucleon
+Pair_d: Daughter nucleus pairing term
+Par_d: Daughter nucleus parity
+S_2n-c: Compound nucleus 2-neutron separation energy
+S_2p-c: Compound nucleus 2-proton separation energy
+ME: Mass excess
+Z_even: Binary flag
+A_even: Binary flag
+N_even: Binary flag
+Shell
+Parity
+Spin
+Decay: Target nucleus decay constant
+Deform: Target nucleus deformation
+p_g_e: Proton gap energy
+p_c_e: Proton chemical energy
+p_rms_r: Proton rms radius
+rms_r: Nucleus rms radius
+S_p-c: Compound nucleus single proton separation energy
+S_n-c: Compound nucleus single neutron separation energy
+Shell_c: Compound nucleus shell term
+S_2p-d: Daughter nucleus 2-proton separation energy
+Shell-d: Daughter nucleus shell term
+Spin-c: Compound nucleus spin
+Rad-c: Compound nucleus radius
+Def-c: Compound nucleus deformation
+ME-c: Compound nucleus mass excess
+BEA-A-c: Compound nucleus total binding energy
+Decay-d: Daughter nucleus decay constant
+ME-d: Daughter nucleus mass excess
+Rad-d: Daughter nucleus radius
+Pair-c: Compound nucleus pairing term
+Par-c: Compound nucleus parity
+BEA-A-d: Daughter nucleus total binding energy
+Spin-d: Daughter nucleus spin
+Def-d: Daughter nucleus deformation
+Asymmetry for target, compound, and daughter nuclei
+Q: Reaction Q-value
